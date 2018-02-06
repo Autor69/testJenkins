@@ -40,6 +40,7 @@ class UserTest extends TestCase
     {
         $x = 1;
         $this->assertEquals('1', $x);
+        $this->assertEquals('1', $x);
     }
 
     /**
