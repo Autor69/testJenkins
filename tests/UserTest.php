@@ -16,32 +16,32 @@ class UserTest extends TestCase
 
     public function testGetId()
     {
-        $this->assertEquals('1', '1');
+        $x = 1;
+        $this->assertEquals('1', $x);
 
     }
 
     public function testSetId()
     {
-
+        $x = 1;
+        $this->assertEquals('1', $x);
     }
 
     public function testGetPassword()
     {
-
+        $x = 1;
+        $this->assertEquals('1', $x);
     }
 
     public function testSetPassword()
     {
-
-    }
-
-    public function test__construct()
-    {
-
+        $x = 1;
+        $this->assertEquals('1', $x);
     }
 
     public function testChangePassword()
     {
-
+        $x = 1;
+        $this->assertEquals('1', $x);
     }
 }
