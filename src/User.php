@@ -1,6 +1,6 @@
 <?php
 
-namespace testJenkins;
+namespace TestJenkins;
 
 
 class User

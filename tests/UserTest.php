@@ -6,7 +6,7 @@
  * Time: 11:03
  */
 
-namespace testJenkins;
+namespace TestJenkins;
 
 use PHPUnit\Framework\TestCase;
 
