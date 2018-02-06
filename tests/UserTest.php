@@ -6,6 +6,10 @@
  * Time: 11:03
  */
 
+namespace testJenkins;
+
+use PHPUnit\Framework\TestCase;
+
 
 class UserTest extends PHPUnit_Framework_TestCase
 {
